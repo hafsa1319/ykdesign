@@ -106,7 +106,9 @@
       "themeColor": "#4d6d9a"
     },
     "publishChangesOnly": false,
-    "screenshot": "screenshot.png"
+    "screenshot": "screenshot.png",
+    "publishType": "local",
+    "publishPath": "@PROJECT_PATH@"
   },
   "pages": {
     "index.html": {
