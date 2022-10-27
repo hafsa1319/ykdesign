@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "how-to-lay-ceramic-tile-flooring.html",
+    "currentPage": "blog.html",
     "theme": {
       "name": "mobirise5",
       "title": "Mobirise 5",
@@ -74,8 +74,8 @@
     },
     "cssOptimize": true,
     "lazyLoad": true,
-    "favicon": "@PROJECT_PATH@/assets/images/favicon-removebg-preview-128x129.png",
-    "mbrsiteDomain": "ot5zdujeu5",
+    "favicon": false,
+    "mbrsiteDomain": "yq98mdurzz",
     "robotsSwitcher": false,
     "sitemapSwitcher": false,
     "sitemapSwitcherAuto": false,
@@ -102,8 +102,8 @@
     "PWA": {
       "enabled": true,
       "name": "",
-      "icon": "@PROJECT_PATH@/assets/images/favicon-removebg-preview-512x512.png",
-      "themeColor": "#c09e6c"
+      "icon": "@ADDONS_PATH@/pwa-builder/assets/icons/512x512.png",
+      "themeColor": "#4d6d9a"
     },
     "publishChangesOnly": false,
     "screenshot": "screenshot.png",
@@ -111,9 +111,7 @@
     "publishPath": "@PROJECT_PATH@",
     "mcSmartCart": {
       "currency": "USD"
-    },
-    "global_header_custom": "<script>\nwindow.dataLayer = window.dataLayer || [];\n%TEMPLATE_DYNAMIC_CODE%\n</script>\n<!-- Google Tag Manager -->\n<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':\nnew Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],\nj=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=\n'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);\n})(window,document,'script','dataLayer','%MerchantId%');</script>\n<!-- End Google Tag Manager -->",
-    "global_after_body": "<!-- Google Tag Manager (noscript) -->\n<noscript><iframe src=\"https://www.googletagmanager.com/ns.html?id=%MerchantId%\"\nheight=\"0\" width=\"0\" style=\"display:none;visibility:hidden\"></iframe></noscript>\n<!-- End Google Tag Manager (noscript) -->"
+    }
   },
   "pages": {
     "index.html": {
@@ -3179,11 +3177,11 @@
           "_PHPplaceholders": [],
           "_isUserblock": true,
           "_cid": "tlrwAS7dhr",
-          "_anchor": "menu1-y",
           "_protectedParams": [],
           "_global": true,
           "_once": "menu",
-          "_params": {}
+          "_params": {},
+          "_anchor": "menu1-y"
         },
         {
           "_name": "agallery2",
@@ -3539,11 +3537,11 @@
           "_PHPplaceholders": [],
           "_isUserblock": true,
           "_cid": "tlrwATqTOL",
-          "_anchor": "footer03-10",
           "_protectedParams": [],
           "_global": true,
           "_once": "footers",
-          "_params": {}
+          "_params": {},
+          "_anchor": "footer03-10"
         }
       ]
     },
@@ -3955,11 +3953,11 @@
           "_PHPplaceholders": [],
           "_isUserblock": true,
           "_cid": "tlrNm0HkuH",
-          "_anchor": "menu1-13",
           "_protectedParams": [],
           "_global": true,
           "_once": "menu",
-          "_params": {}
+          "_params": {},
+          "_anchor": "menu1-13"
         },
         {
           "_name": "article4",
@@ -4214,11 +4212,11 @@
           "_PHPplaceholders": [],
           "_isUserblock": true,
           "_cid": "tlrNm1Ithd",
-          "_anchor": "footer03-15",
           "_protectedParams": [],
           "_global": true,
           "_once": "footers",
-          "_params": {}
+          "_params": {},
+          "_anchor": "footer03-15"
         }
       ]
     },

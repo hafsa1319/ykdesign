@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "how-to-lay-ceramic-tile-flooring.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise5",
       "title": "Mobirise 5",
@@ -3179,11 +3179,11 @@
           "_PHPplaceholders": [],
           "_isUserblock": true,
           "_cid": "tlrwAS7dhr",
-          "_anchor": "menu1-y",
           "_protectedParams": [],
           "_global": true,
           "_once": "menu",
-          "_params": {}
+          "_params": {},
+          "_anchor": "menu1-y"
         },
         {
           "_name": "agallery2",
@@ -3539,11 +3539,11 @@
           "_PHPplaceholders": [],
           "_isUserblock": true,
           "_cid": "tlrwATqTOL",
-          "_anchor": "footer03-10",
           "_protectedParams": [],
           "_global": true,
           "_once": "footers",
-          "_params": {}
+          "_params": {},
+          "_anchor": "footer03-10"
         }
       ]
     },
@@ -3955,11 +3955,11 @@
           "_PHPplaceholders": [],
           "_isUserblock": true,
           "_cid": "tlrNm0HkuH",
-          "_anchor": "menu1-13",
           "_protectedParams": [],
           "_global": true,
           "_once": "menu",
-          "_params": {}
+          "_params": {},
+          "_anchor": "menu1-13"
         },
         {
           "_name": "article4",
@@ -4214,11 +4214,11 @@
           "_PHPplaceholders": [],
           "_isUserblock": true,
           "_cid": "tlrNm1Ithd",
-          "_anchor": "footer03-15",
           "_protectedParams": [],
           "_global": true,
           "_once": "footers",
-          "_params": {}
+          "_params": {},
+          "_anchor": "footer03-15"
         }
       ]
     },
